@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/time4int.dir/mipslabdata.c.o CMakeFiles/time4int.dir/mipslabfunc.c.o CMakeFiles/time4int.dir/mipslabmain.c.o CMakeFiles/time4int.dir/mipslabwork.c.o CMakeFiles/time4int.dir/stubs.c.o CMakeFiles/time4int.dir/time4io.c.o  -o time4int.exe -Wl,--out-implib,libtime4int.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
